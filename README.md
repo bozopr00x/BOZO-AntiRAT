@@ -123,5 +123,5 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 </div>
 
 ⭐ If you like this project, don’t forget to **Star** it! ⭐  
-*Made with ❤️ by BOZO*  
+*Made with ❤️ by BOZO*  .
 </div>
