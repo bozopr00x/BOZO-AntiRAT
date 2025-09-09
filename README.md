@@ -90,7 +90,7 @@
 ---
 
 ## 📊 Example Output
-🛡️ BOZO-AntiRAT v2.1.0 - Advanced Malware Detection
+🛡️ BOZO-AntiRAT - Advanced Malware Detection
 
 [2025-01-16 14:32:17] 🚀 Starting system scan...
 ⚠️ THREAT DETECTED: XWorm Variant
@@ -118,7 +118,10 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 
 <div align="center">
 
-⭐ If you like this project, don’t forget to **Star** it! ⭐  
-*Made with ❤️ by BOZO-AntiRAT Team*  
+<div align="center">
+  <h3>💬 Discord User: <code>0psk</code> | 🌐 Website: <a href="https://0psk.netlify.app/">0psk.netlify.app</a></h3>
+</div>
 
+⭐ If you like this project, don’t forget to **Star** it! ⭐  
+*Made with ❤️ by BOZO*  
 </div>
